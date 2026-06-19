@@ -1,4 +1,4 @@
-# Hello! My name is Kawin Gowan
+# Hello! I am Kawin Gowan
 
 ## About me
 
