@@ -62,6 +62,7 @@ Seeking internship opportunities in Web design, backend, and IoT development.
     <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
   </a>
 </p>
+
 ## Socials
 
 <a href="https://github.com/Ken-omlet">
