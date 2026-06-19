@@ -2,12 +2,12 @@
 
 ## Student
 
-Seeking internship opportunities in Unity, backend, and IoT development.
+Seeking internship opportunities in Web design, backend, and IoT development.
 
-- 🌍 I'm based in Chiang Rai, Thailand
-- 📧 You can contact me at your-email@gmail.com
+- 🗺️ I'm live in Bankok, Thailand
+- 📱 You can contact me at kawingowan@gmail.com
 
-## Skills
+## I can use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
